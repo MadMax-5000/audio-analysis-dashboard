@@ -3,6 +3,15 @@
 ## Overview
 The **Audio Analysis Dashboard** is a powerful Python-based tool designed to analyze and visualize various features of audio files, including music, human voices, and animal sounds. The tool provides insights into the frequency distribution, Mel spectrograms, MFCCs, and other essential audio features. 🚀
 
+## Dashboard Screenshots
+
+<img src="dashboard-screenshots/dashboard%20(1).png" width="800" alt="Dashboard Screenshot 1">
+<img src="dashboard-screenshots/dashboard%20(2).png" width="800" alt="Dashboard Screenshot 2">
+<img src="dashboard-screenshots/dashboard%20(3).png" width="800" alt="Dashboard Screenshot 3">
+<img src="dashboard-screenshots/dashboard%20(4).png" width="800" alt="Dashboard Screenshot 4">
+<img src="dashboard-screenshots/dashboard%20(5).png" width="800" alt="Dashboard Screenshot 5">
+<img src="dashboard-screenshots/dashboard%20(6).png" width="800" alt="Dashboard Screenshot 6">
+
 ## Features
 - 🎶 **Waveform Visualization**: View the raw audio waveform.
 - 🔊 **Mel Spectrogram**: Visualize the frequency content of the audio.
