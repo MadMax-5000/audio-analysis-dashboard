@@ -50,6 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Enjoy exploring audio features and visualizing your data! 🎉
-```
-
-This README includes clear instructions for installation, usage, and contributing, as well as some emojis to make it more engaging.
